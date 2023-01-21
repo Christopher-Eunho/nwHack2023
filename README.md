@@ -4,4 +4,4 @@ Team Member
 - Chris Jung
 - Arden Choi
 - Leo Kim
--
+- Mave Hur
