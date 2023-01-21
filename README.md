@@ -3,5 +3,5 @@
 Team Member
 - Chris Jung
 - Arden Choi
--
+- Leo Kim
 -
